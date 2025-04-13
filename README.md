@@ -5,3 +5,8 @@
 4. Ввести в терминале npm run dev
 
 проект размещен по адресу: https://marker-sandy.vercel.app/
+
+В проекте используется:
+- TypeScript
+- React
+- Vite
